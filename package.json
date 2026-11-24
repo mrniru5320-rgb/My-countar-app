@@ -1,0 +1,12 @@
+{
+  "name": "my-counter-app",
+  "version": "1.0.0",
+  "description": "Simple counter web app",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.3"
+  }
+}
